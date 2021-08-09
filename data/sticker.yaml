@@ -1,0 +1,6 @@
+nc: 2  # number of classes
+names: [ 'ok', 'ng' ]  # class names
+
+path: dataset/sticker
+train: ./
+val: ./
