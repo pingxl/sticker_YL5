@@ -1,6 +1,6 @@
 nc: 2  # number of classes
 names: [ 'ok', 'ng' ]  # class names
 
-path: dataset/sticker
+path: https://drive.google.com/drive/folders/1DOuoV5tpwlGu9-MGUWoRVKZOLVCMKgo-?usp=sharing
 train: ./
 val: ./
